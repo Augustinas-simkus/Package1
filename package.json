@@ -5,7 +5,7 @@
 	"unity": "2018.4",
 	"repository": {
 		"type": "git",
-		"url": "",
+		"url": "https://github.com/Augustinas-simkus/Package1.git",
 		"revision": "1.0.0"
 	},
   "description": "Package 1 which is a dependacy of Package 2",
